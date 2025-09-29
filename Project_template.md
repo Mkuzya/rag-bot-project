@@ -209,16 +209,39 @@
 ## Задание 2: Подготовка базы знаний
 
 ### 2.1 Выбранная предметная область
-*Заполнить*
+
+**Источник:** Star Wars Fandom (starwars.fandom.com)
 
 ### 2.2 Скачанные и очищенные тексты (30+ страниц)
-*Заполнить*
+
+**Общее количество страниц:** 38
+
+**Персонажи (12 страниц):** Darth Vader, Luke Skywalker, Princess Leia, Obi-Wan Kenobi, Yoda, Emperor Palpatine, Han Solo, Chewbacca, R2-D2, C-3PO, Boba Fett, Darth Maul
+
+**Планеты (8 страниц):** Tatooine, Alderaan, Coruscant, Endor, Hoth, Dagobah, Naboo, Kashyyyk
+
+**Технологии (8 страниц):** Death Star, Lightsaber, The Force, X-wing Starfighter, Millennium Falcon, Death Star II, AT-AT Walker, TIE Fighter
+
+**Организации/События (6 страниц):** Battle of Yavin, Rebel Alliance, Galactic Empire, Jedi Order, Sith Order, Clone Wars
+
+**Дополнительные термины (4 страницы):** Lightsaber Combat, Hyperspace, Clone Troopers, Jedi Training
+
 
 ### 2.3 Словарь замен терминов (terms_map.json)
-*Заполнить*
+
+**Персонажи (12 замен):** Darth Vader → Dmitri Volkov, Luke Skywalker → Alexei Petrov, Princess Leia → Anastasia Kozlova, Obi-Wan Kenobi → Igor Sokolov, Yoda → Master Boris, Emperor Palpatine → Vladimir Chernov, Han Solo → Sergei Morozov, Chewbacca → Boris, R2-D2 → Unit-7, C-3PO → Protocol-9, Boba Fett → Andrei Volkov, Darth Maul → Dmitri Chernov
+
+**Планеты (8 замен):** Tatooine → Pustynya, Alderaan → Zelenograd, Coruscant → Metropol, Endor → Lesnaya, Hoth → Ledovaya, Dagobah → Boloto, Naboo → Sadovaya, Kashyyyk → Drevesnaya
+
+**Технологии (8 замен):** Death Star → Proekt Alpha, Lightsaber → Energo Mech, The Force → Silovoe Pole, X-wing Starfighter → Phoenix Fighter, Millennium Falcon → Molnienosny, AT-AT Walker → Metall Walker, TIE Fighter → Boevoi Istrebitel
+
+**Организации/События (10 замен):** Rebel Alliance → Svobodnaya Liga, Galactic Empire → Galakticheskaya Imperiya, Jedi Order → Orden Strazei, Sith Order → Orden Teni, Clone Wars → Voyny Klonov, Battle of Yavin → Bitva za Prime
+
+**Дополнительные термины (20 замен):** Star Wars → Zvezdnye Vojny, Galaxy → Galaktika, Republic → Respublika, Senate → Senat, Stormtroopers → Shturmoviki, Droids → Droidy, Blaster → Blaster, Hyperdrive → Giperprivod, Laser → Lazer, Space → Kosmos, Imperial → Imperatorskiy, Rebel → Myatezhnik, Jedi → Strazh, Sith → Tenevoy Voin, Padawan → Uchenik Strazei, Master → Master Strazei, Knight → Rytsar Strazei, Council → Sovet Strazei, Temple → Khram Strazei, Academy → Akademiya Strazei
 
 ### 2.4 Структура базы знаний
-*Заполнить*
+
+**Папка knowledge_base/ с очищенными и переименованными .txt документами (38 штук) и terms_map.json со словарем замен (исходное → вымышленное)**
 
 ## Задание 3: Создание векторного индекса
 
