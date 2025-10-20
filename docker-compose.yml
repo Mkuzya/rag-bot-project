@@ -1,0 +1,10 @@
+services:
+  rag-bot:
+    build: .
+    container_name: rag-bot
+    volumes:
+      - ./vector_index:/app/vector_index:ro
+      - ./knowledge_base:/app/knowledge_base:ro
+    stdin_open: true
+    tty: true
+

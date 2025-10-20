@@ -140,7 +140,7 @@ def save_metadata(chunks: List[Document], embeddings: np.ndarray) -> Dict[str, A
             "source": chunk.metadata["source"],
             "title": chunk.metadata["title"],
             "chunk_index": chunk.metadata["chunk_index"],
-            "content_preview": chunk.page_content[:100] + "..." if len(chunk.page_content) > 100 else chunk.page_content
+            "content": chunk.page_content  # Сохраняем полный текст
         }
         metadata["chunks"].append(chunk_metadata)
     

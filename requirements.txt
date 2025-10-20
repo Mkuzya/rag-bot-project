@@ -1,11 +1,6 @@
 langchain
 faiss-cpu
-python-dotenv
 sentence-transformers
-openai
-fastapi
-uvicorn
-pydantic
 requests
 beautifulsoup4
 numpy
