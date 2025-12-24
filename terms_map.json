@@ -1,0 +1,70 @@
+{
+  "персонажи": {
+    "Darth Vader": "Dmitri Volkov",
+    "Luke Skywalker": "Alexei Petrov", 
+    "Princess Leia": "Anastasia Kozlova",
+    "Obi-Wan Kenobi": "Igor Sokolov",
+    "Yoda": "Master Boris",
+    "Emperor Palpatine": "Vladimir Chernov",
+    "Han Solo": "Sergei Morozov",
+    "Chewbacca": "Boris",
+    "R2-D2": "Unit-7",
+    "C-3PO": "Protocol-9",
+    "Boba Fett": "Andrei Volkov",
+    "Darth Maul": "Dmitri Chernov"
+  },
+  "планеты": {
+    "Tatooine": "Pustynya",
+    "Alderaan": "Zelenograd",
+    "Coruscant": "Metropol",
+    "Endor": "Lesnaya",
+    "Hoth": "Ledovaya",
+    "Dagobah": "Boloto",
+    "Naboo": "Sadovaya",
+    "Kashyyyk": "Drevesnaya"
+  },
+  "технологии": {
+    "Death Star": "Proekt Alpha",
+    "Death Star II": "Proekt Beta",
+    "Lightsaber": "Energo Mech",
+    "The Force": "Silovoe Pole",
+    "X-wing Starfighter": "Phoenix Fighter",
+    "Millennium Falcon": "Molnienosny",
+    "AT-AT Walker": "Metall Walker",
+    "TIE Fighter": "Boevoi Istrebitel"
+  },
+  "организации_события": {
+    "Battle of Yavin": "Bitva za Prime",
+    "Rebel Alliance": "Svobodnaya Liga",
+    "Galactic Empire": "Galakticheskaya Imperiya",
+    "Jedi Order": "Orden Strazei",
+    "Sith Order": "Orden Teni",
+    "Clone Wars": "Voyny Klonov",
+    "Lightsaber Combat": "Energo Mech Combat",
+    "Hyperspace": "Kvantovoe Prostranstvo",
+    "Clone Troopers": "Soldaty Klony",
+    "Jedi Training": "Obuchenie Strazei"
+  },
+  "дополнительные_термины": {
+    "Star Wars": "Zvezdnye Vojny",
+    "Galaxy": "Galaktika",
+    "Republic": "Respublika",
+    "Senate": "Senat",
+    "Stormtroopers": "Shturmoviki",
+    "Droids": "Droidy",
+    "Blaster": "Blaster",
+    "Hyperdrive": "Giperprivod",
+    "Laser": "Lazer",
+    "Space": "Kosmos",
+    "Imperial": "Imperatorskiy",
+    "Rebel": "Myatezhnik",
+    "Jedi": "Strazh",
+    "Sith": "Tenevoy Voin",
+    "Padawan": "Uchenik Strazei",
+    "Master": "Master Strazei",
+    "Knight": "Rytsar Strazei",
+    "Council": "Sovet Strazei",
+    "Temple": "Khram Strazei",
+    "Academy": "Akademiya Strazei"
+  }
+}

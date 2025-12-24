@@ -1,3 +1,6 @@
 langchain
 faiss-cpu
-python-dotenv
+sentence-transformers
+requests
+beautifulsoup4
+numpy
